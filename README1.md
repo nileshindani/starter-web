@@ -1,6 +1,10 @@
 ## starter web project
 
-
+Sample project for the devops
 ##git and github training
 
+Sample demo and study material tutorial
+
 ##Introduction
+
+This is git project ... demo for the git sample execution.
