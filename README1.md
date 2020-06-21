@@ -12,3 +12,4 @@ This is git project ... demo for the git sample execution.
 Topic for this session is git compare.
 
 Adding the github content for compare with repo.
+Adding the line as master
