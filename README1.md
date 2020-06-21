@@ -13,3 +13,6 @@ Topic for this session is git compare.
 
 Adding the github content for compare with repo.
 Adding the line as master
+
+
+Adding the line with master for merge conflict demo
