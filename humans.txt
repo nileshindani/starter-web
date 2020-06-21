@@ -19,3 +19,4 @@
     Added humans.txt line by team1
 
     Added a new line to humans.txt by team1 for merge conflict
+    Added a new line to humans.txt by team developer - merge conflict excercise
