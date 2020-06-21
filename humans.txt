@@ -24,3 +24,4 @@
     Branch merging exercise human.txt for demo
 
     Added new line to humans.txt for merge conflict with rebase
+    Added new line to humans.txt for merge conflict with rebase 1
