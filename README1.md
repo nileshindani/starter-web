@@ -8,3 +8,7 @@ Sample demo and study material tutorial
 ##Introduction
 
 This is git project ... demo for the git sample execution.
+
+Topic for this session is git compare.
+
+Adding the github content for compare with repo.
