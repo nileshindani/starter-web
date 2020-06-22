@@ -31,3 +31,4 @@
     Added a new line to humans.txt by team1 for merge conflict with rebase
 >>>>>>> team1a
     Added a new line to humans.txt by master for stashing into branch
+    Added a new line for tag compare demo
