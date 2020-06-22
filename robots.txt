@@ -2,3 +2,5 @@
 
 User-agent: *
 adding line as team1 developer
+
+adding the line for git stash demonstration
