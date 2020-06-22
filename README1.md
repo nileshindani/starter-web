@@ -20,3 +20,5 @@ Another change for merge conflict
 Adding a new line for adding a remote rebuild
 
 Added a line for multistash demo
+
+ADded a line for stash into branch demo
