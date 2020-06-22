@@ -25,10 +25,7 @@
 
     Added new line to humans.txt for merge conflict with rebase
     Added new line to humans.txt for merge conflict with rebase 1
-<<<<<<< HEAD
     Added new line to humans.txt for rebase remote
-=======
     Added a new line to humans.txt by team1 for merge conflict with rebase
->>>>>>> team1a
     Added a new line to humans.txt by master for stashing into branch
     Added a new line for tag compare demo
