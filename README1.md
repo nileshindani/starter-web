@@ -22,3 +22,5 @@ Adding a new line for adding a remote rebuild
 Added a line for multistash demo
 
 ADded a line for stash into branch demo
+
+Added for demonstration of tag compare
